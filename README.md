@@ -1,3 +1,4 @@
+📘 WordPress Tutorial – README
 📌 Overview
 
 This project is a complete WordPress tutorial covering everything from basic setup to advanced development. It is designed for beginners as well as developers who want to build custom themes, plugins, and REST APIs.
@@ -140,4 +141,4 @@ This project is open-source and free to use.
 👨‍💻 Author
 
 Mohammad Suhail
-Full Stack Developer (NodeJS | ReactJS | VueJs| Python | Laravel | Vue.js | WordPress)
+Full Stack Developer (Laravel | Vue.js | WordPress)
